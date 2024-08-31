@@ -11,21 +11,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Ana Farmus
+# Ana Farmus's First CS193 Homework
 ## Tired
 ### Hungry
 
-- Cats
-- Food
-- Naps
-- Running
-- Hiking
-- Drawing
+- Not stressful
+- Interesting
+- Cool teachers
+- Fun
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+`Code` text
 
 [Link](url) and ![Image](src)
 ```
